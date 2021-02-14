@@ -1,0 +1,10 @@
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\bin\Debug\CSelenium.exe.config
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\bin\Debug\CSelenium.exe
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\bin\Debug\CSelenium.pdb
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\bin\Debug\WebDriver.dll
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\bin\Debug\WebDriver.xml
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\obj\Debug\CSelenium.csprojAssemblyReference.cache
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\obj\Debug\CSelenium.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\obj\Debug\CSelenium.csproj.CopyComplete
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\obj\Debug\CSelenium.exe
+C:\Users\Kübra\Desktop\CSelenium\CSelenium\obj\Debug\CSelenium.pdb
